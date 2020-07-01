@@ -7,7 +7,7 @@ IHM PROJECT
 
 [TOC]
 
-This project made by ** Aymane EL-KHAZENTI, MARANI MOATAZ **
+This project made by MARANI MOATAZ
 
 
 :memo: Introduction
