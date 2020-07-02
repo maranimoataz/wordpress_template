@@ -13,7 +13,7 @@
                 <i aria-hidden="true" class="fas fa-phone"></i><span itemprop="telephone"> (+212) 05 23 34 44 48</span><br/>
                 <i aria-hidden="true" class="fas fa-fax"></i><span itemprop="fax">(+212) 05 23 34 44 49</span>
             </p>
-            <p><a href="mailto:aelkhazenti@gmail.com" class="btn">Envoyer un mail</a></p>
+            <p><a href="mailto:maranimouataz@gmail.com" class="btn">Envoyer un mail</a></p>
         </div>
         <div class="footer-map">
             <script>
